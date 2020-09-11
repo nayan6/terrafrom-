@@ -1,5 +1,5 @@
-LAB1-ec2-with-terraform.MD), we launched a basic EC2 instance with terraform. 
-In this lab, we will launch linux EC2 instance and ssh, and then launch a windows EC2 instane and RDP into it. Please goto lesson1-ec2-with-terraform.MD) if you haven't gone throught it . We introduce terraform in that lesosn. 
+In the [last lesson/lab ](lesson1-ec2-with-terraform.MD), we launched a basic EC2 instance with terraform. 
+In this lab, we will launch linux EC2 instance and ssh, and then launch a windows EC2 instane and RDP into it. Please go to  [last lesson/lab ](lesson1-ec2-with-terraform.MD) if you haven't gone throught it . We introduce terraform in that lesosn. 
 
 
 
@@ -7,7 +7,9 @@ In this lab, we will launch linux EC2 instance and ssh, and then launch a window
 
 1) Go to your AWS Management Console , navigate to the EC2 dashboard, click on Key Pairs. Click Create Key Pair. Enter a name like terraform-key and click create. 
 ![key](../images/key-pair.png)
+
 ![key](../images/Create-key-start.png)
+
 ![key](../images/Create-key.png)
 
 This will download a file to your computers default downloads folder. 
